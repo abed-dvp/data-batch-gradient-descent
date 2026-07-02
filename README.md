@@ -1,4 +1,4 @@
-# Gradient Descent  
+# Gradient Descent   
 
 This exercise consists of coding a Gradient Descent by hand! 💪 
 
