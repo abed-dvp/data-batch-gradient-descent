@@ -2,7 +2,7 @@
 
 This exercise consists of coding a Gradient Descent by hand! 💪 
 
-You will be creating functions for each of the following steps of a Gradient Descent epoch: 
+You will be creating functions for each of the following steps of a Gradient Descent epoch:  
 
 1. Hypothesis Function ❓
 2. Loss function
