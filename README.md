@@ -1,6 +1,6 @@
 # Gradient Descent     
 
-This exercise consists of coding a Gradient Descent by hand! 💪 
+This exercise consists of coding a Gradient Descent by hand! 💪  
 
 You will be creating functions for each of the following steps of a Gradient Descent epoch:  
 
